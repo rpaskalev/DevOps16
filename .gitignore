@@ -1,0 +1,4 @@
+**.log
+test/*.err
+build/
+README.md
